@@ -1,0 +1,36 @@
+## Previewer: A systematic previewer for multivariable data
+
+# Plan: 
+An interactive previewer for multivariable dataset. Combining the functionalities of various packages and covers both plot, models, data, and code.
+
+
+To bring together the functions of
+ - tidyverse (ggplot/dplyr/GGally)
+ - Trellis-lattice (psych etc.)
+ - caret
+ - visreg
+ - misc3d-plot3d
+ 
+ and basic functionalities of R to create a:
+
+ - safer
+ - more systematic
+ - more considerate
+ 
+ preview with:
+ 
+ - implementation of exploratory, explanatory and predictive models
+ - consistent minimalistic graphic style
+ - sematic parameters/ reporting functions and pivot tables
+ - auto-generation of analysis code
+ 
+# Reference
+  The intro video gives an outline, but to fully understand the functionalities, it is recommended to have a view on multi-var stats systematically.
+  https://youtu.be/KIIK8HKG_ac
+  [Demo Video](https://youtu.be/KIIK8HKG_ac)
+
+  The books below are recommended references (and are related to packages being called) but not necessary for using the app:
+  
+  Applied Predictive Modeling by Kuhn, Max
+  R For Data Science by Wickham, Hadgley
+  Data Mining with R by Torgo, Luis
