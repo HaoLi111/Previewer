@@ -1,2 +1,2 @@
 # Previewer
-Previewing datasets with save and systematic statistical approach
+Previewing datasets with safe and systematic statistical approach
